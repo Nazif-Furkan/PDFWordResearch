@@ -1,0 +1,11 @@
+c:\users\nazif\documents\visual studio 2017\Projects\pdfSearcher\pdfSearcher\bin\Debug\pdfSearcher.exe.config
+c:\users\nazif\documents\visual studio 2017\Projects\pdfSearcher\pdfSearcher\bin\Debug\pdfSearcher.exe
+c:\users\nazif\documents\visual studio 2017\Projects\pdfSearcher\pdfSearcher\bin\Debug\pdfSearcher.pdb
+c:\users\nazif\documents\visual studio 2017\Projects\pdfSearcher\pdfSearcher\bin\Debug\itextsharp.dll
+c:\users\nazif\documents\visual studio 2017\Projects\pdfSearcher\pdfSearcher\bin\Debug\itextsharp.xml
+c:\users\nazif\documents\visual studio 2017\Projects\pdfSearcher\pdfSearcher\obj\Debug\pdfSearcher.csprojResolveAssemblyReference.cache
+c:\users\nazif\documents\visual studio 2017\Projects\pdfSearcher\pdfSearcher\obj\Debug\pdfSearcher.Form1.resources
+c:\users\nazif\documents\visual studio 2017\Projects\pdfSearcher\pdfSearcher\obj\Debug\pdfSearcher.Properties.Resources.resources
+c:\users\nazif\documents\visual studio 2017\Projects\pdfSearcher\pdfSearcher\obj\Debug\pdfSearcher.csproj.GenerateResource.Cache
+c:\users\nazif\documents\visual studio 2017\Projects\pdfSearcher\pdfSearcher\obj\Debug\pdfSearcher.exe
+c:\users\nazif\documents\visual studio 2017\Projects\pdfSearcher\pdfSearcher\obj\Debug\pdfSearcher.pdb
